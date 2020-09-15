@@ -1,0 +1,23 @@
+{
+  "name": "rocketchat-timings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampaiodiego/rocketchat-timings.git"
+  },
+  "author": "Diego Sampaio <chinello@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sampaiodiego/rocketchat-timings/issues"
+  },
+  "homepage": "https://github.com/sampaiodiego/rocketchat-timings#readme",
+  "dependencies": {
+    "faye-websocket": "^0.11.3"
+  }
+}
