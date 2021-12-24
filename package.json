@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "ping": "node ping.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,6 @@
   },
   "homepage": "https://github.com/sampaiodiego/rocketchat-timings#readme",
   "dependencies": {
-    "faye-websocket": "^0.11.3"
+    "faye-websocket": "^0.11.4"
   }
 }
